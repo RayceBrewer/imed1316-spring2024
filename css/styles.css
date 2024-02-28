@@ -1,3 +1,9 @@
-.imed-row {
+/*.imed-row {
     background-color: pink;
+}*/
+
+.custom-color {
+
+    background-color: #77C3F2;
+    height: 200px;
 }
