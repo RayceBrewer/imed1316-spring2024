@@ -4,3 +4,16 @@
 30% of #F2A677 - Secondary
 10% of #85F277 - Accent
 */
+
+:root {
+
+    /* var(--dominantColor) !important; */
+    --dominantColor: #77C3F2;
+
+    /* var(--secondaryColor) !important; */
+    --secondaryColor: #F2A677;
+
+    /* var(--accentColor) !important; */
+    --accentColor: #85F277;
+    
+}
