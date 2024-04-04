@@ -26,4 +26,14 @@ h2 {
     font-size: 29px;
     font-family: "Protest Guerrilla", sans-serif;
     color: var(--dominantColor) !important;
+
+}
+
+.material-symbols-outlined,
+.material-symbols-outlined a {
+    font-size: 60px;
+    color: var(--dominantColor) !important;
+    position: relative;
+    top: 0px;
+    text-decoration: none;
 }
