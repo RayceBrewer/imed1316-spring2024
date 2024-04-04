@@ -1,5 +1,12 @@
-.custom-color {
+html{
+    scroll-behavior: smooth;
+}
 
-    background-color: var(--dominantColor) !important;
-    height: 200px;
+body{
+    background-color: #ffffff;
+}
+
+h1,
+h2{
+    color: var(--accentColor) !important;
 }
