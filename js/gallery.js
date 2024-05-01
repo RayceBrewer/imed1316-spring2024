@@ -8,12 +8,12 @@ $( document ).ready(function() {
         thumbnailBorderVertical: 0,
         thumbnailBorderHorizontal: 0,
         thumbnailLabel: {
-            position: "overImageOnBottom",
+            postition: "overImageOnBottom",
             display: false
         },
-        thumbnailHoverEffect2: "ImageScaleIn80|imageSepiaOff|labelAppear75",
-        thumbnialGutterWidth: 0,
-        thumbnailGutterHeight: 0,
+        thumbnailHoverEffect2: "imageScaleIn80|imageSepiaOff|labelAppear75",
+        thumbnailGutterWidth: 20,
+        thumbnailGutterHeight: 20,
         thumbnailAlingnment: "center",
         thumbnailOpenImage: true 
     });
