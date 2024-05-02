@@ -52,5 +52,4 @@
 
 .submit:hover {
     background-color: #ffffff;
-    color: var(--secondaryColor) !important;
-}
+    color: #000000 !important;
