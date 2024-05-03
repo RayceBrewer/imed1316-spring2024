@@ -50,9 +50,13 @@
 }
 
 @media(max-width: 900px) {
+
+    .first-paragraph-img {
     position: relative;
-    float: left;
-    padding-right: 18px;
+    float: none;
+    padding-right: 0px;
+    }
+
 }
 
 .second-paragraph-div {
@@ -75,3 +79,12 @@
     padding-left: 18px;
 }
 
+@media(max-width: 900px) {
+
+    .second-paragraph-img {
+    position: relative;
+    float: none;
+    padding-left: 0px;
+    }
+
+}
