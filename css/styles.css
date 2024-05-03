@@ -33,7 +33,7 @@
     position: relative;
     background-color: #fffffd;
     color: var(--dominantColor) !important;
-    font-weight: bold;
+    font-weight: normal;
     font-family: "Protest Guerrilla", sans-serif;
     font-size: 24px;
     padding: 20px;
@@ -63,7 +63,7 @@
     position: relative;
     background-color: #fffffd;
     color: var(--dominantColor) !important;
-    font-weight: bold;
+    font-weight: normal;
     font-family: "Protest Guerrilla", sans-serif;
     font-size: 24px;
     padding: 20px;
