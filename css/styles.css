@@ -18,6 +18,6 @@
     margin-top: 10px;
 }
 
-.fa-row-icon {
+.fa-row-icon:hover {
     transform: (1,1)
 }
