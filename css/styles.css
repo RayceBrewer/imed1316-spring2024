@@ -99,4 +99,6 @@
     height: 200px;
     margin-top: 15px;
     border: 10px solid var(--secondaryColor) !important;
+    margin: auto;
+    clip-path: circle(50% at 50% 50%);
 }
