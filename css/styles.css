@@ -117,3 +117,8 @@
     position: absolute;
     bottom: 9px;
 }
+
+.card-share-icon i {
+    padding-right: 5px;
+    padding-left: 5px;
+}
