@@ -49,6 +49,12 @@
     padding-right: 18px;
 }
 
+@media(max-width: 900px) {
+    position: relative;
+    float: left;
+    padding-right: 18px;
+}
+
 .second-paragraph-div {
     position: relative;
     background-color: #fffffd;
