@@ -49,3 +49,23 @@
     padding-right: 18px;
 }
 
+.second-paragraph-div {
+    position: relative;
+    background-color: #fffffd;
+    color: var(--dominantColor) !important;
+    font-weight: bold;
+    font-family: "Protest Guerrilla", sans-serif;
+    font-size: 24px;
+    padding: 20px;
+    height: auto;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.second-paragraph-img {
+    position: relative;
+    float: right;
+    padding-left: 18px;
+}
+
